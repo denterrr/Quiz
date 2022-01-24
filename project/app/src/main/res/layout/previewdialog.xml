@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialogfon"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/preview_back1"
+    android:layout_gravity="center"
+    android:scaleType="centerCrop"
+    android:layout_margin="10dp"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp"
+        android:gravity="center">
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/btnclose"
+            android:text="&#60;"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:background="@drawable/button_black95_white"
+            android:layout_gravity="start"
+            />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:id="@+id/previewimg"
+            android:src="@drawable/preview_top"
+            android:layout_weight="90"
+            android:layout_marginTop="10dp"
+
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:id="@+id/textdesc"
+            android:text="@string/level1desc"
+            android:layout_weight="30"
+            android:textColor="@color/black95"
+            android:textSize="28sp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="45dp"
+
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:id="@+id/btncontinue"
+            android:background="@drawable/button_black95_white"
+            android:layout_weight="15"
+            android:text="@string/continuee"
+            android:textColor="@color/black95"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:textAllCaps="true"
+            android:textSize="24sp"
+            android:layout_marginTop="10dp"
+            />
+    </LinearLayout>
+
+
+
+</LinearLayout>

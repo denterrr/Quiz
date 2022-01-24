@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level1desc">Чтобы пройти этот уровень, выбирай то, что выбрал бы Денис</string>
+    <string name="leveloneend">Поздравляем, уровень пройден!</string>
+</resources>

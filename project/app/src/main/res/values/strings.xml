@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">For my girl</string>
+    <string name="next_level">Следующий уровень</string>
+    <string name="start">Начать</string>
+    <string name="back">Назад</string>
+    <string name="level">Уровень:</string>
+    <string name="level1">Уровень 1</string>
+    <string name="level3">Уровень 3</string>
+    <string name="level4">Уровень 4</string>
+    <string name="level5">Уровень 5</string>
+    <string name="level2">Уровень 2</string>
+    <string name="levelget">Выбери уровень♥</string>
+    <string name="continuee">Продолжить</string>
+    <string name="avokado">авокадо</string>
+    <string name="pomidorka">помидор</string>
+    <string name="pechenka">печенька</string>
+    <string name="klubnika">клубника</string>
+    <string name="konfeta">конфета</string>
+    <string name="kurochka">курочка</string>
+    <string name="sosiska">сосиска</string>
+    <string name="lays">лэйс</string>
+    <string name="arbuz">арбуз</string>
+    <string name="pizza">пицца</string>
+    <string name="citroen">Citroen</string>
+    <string name="acura">Acura</string>
+    <string name="mercedes">Mercedes</string>
+    <string name="rollsroyce">Rolls-Royce</string>
+    <string name="hummer">Hummer</string>
+    <string name="mclaren">McLaren</string>
+    <string name="lamborghini">Lamborghini</string>
+    <string name="buggati">Buggati</string>
+    <string name="cadillac">Cadillac</string>
+    <string name="astonmartin">Aston-Martin</string>
+
+    <string name="zara">Zara</string>
+    <string name="hm">H M</string>
+    <string name="adidas">Adidas</string>
+    <string name="nike">Nike</string>
+    <string name="supreme">Supreme</string>
+    <string name="thrasher">Thrasher</string>
+    <string name="saintlaurent">Saint Laurent</string>
+    <string name="vans">Vans</string>
+    <string name="lv">Louis Vuitton</string>
+    <string name="gucci">Gucci</string>
+
+
+    <string name="balenciaga">Balenciaga</string>
+    <string name="reebok">Reebok</string>
+    <string name="puma">Puma</string>
+    <string name="chanel">Chanel</string>
+    <string name="jordan">Jordan</string>
+    <string name="prada">Prada</string>
+    <string name="crocs">Crocs</string>
+
+    <string name="ok">OK</string>
+    <string name="textfin">"Поздравляем, вы прошли всю игру!\n
+    Чтобы забрать свой выигрыш, отправьте Денису код: KAZAN2021</string>
+
+    <string name="newyork">Нью Йорк</string>
+    <string name="moscow">Москва</string>
+    <string name="saint">Санкт-Петербург</string>
+    <string name="mokshan">Мокшан</string>
+    <string name="kuvak">Кувак-Никольск</string>
+    <string name="sputnik">Спутник</string>
+    <string name="penza">Пенза</string>
+    <string name="kazan">Казань</string>
+    <string name="lomov">Нижний Ломов</string>
+    <string name="damate">Дамате</string>
+
+
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialogfon"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/preview_back1"
+    android:layout_gravity="center"
+    android:scaleType="centerCrop"
+    android:layout_margin="10dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:id="@+id/btnclose"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="end"
+            android:background="@drawable/button_black95_white"
+            android:gravity="center"
+            android:text="X"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/textdesc"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="25dp"
+            android:layout_weight="36"
+            android:text="@string/leveloneend"
+            android:textColor="@color/black95"
+            android:textSize="38sp"
+
+            />
+
+        <Button
+            android:id="@+id/btncontinue"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="15"
+            android:background="@drawable/button_black95_white"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:text="@string/next_level"
+            android:textAllCaps="true"
+            android:textColor="@color/black95"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+
+</LinearLayout>
